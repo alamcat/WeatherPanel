@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "iostream": "cpp",
+        "u8g2_mfyuehei_14_gb2312.h": "c",
+        "random": "cpp"
+    },
+    "python.pythonPath": "/usr/bin/python3"
+}
